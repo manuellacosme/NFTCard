@@ -85,11 +85,12 @@ h1:hover {
 .eth-text {
     color: hsl(178, 100%, 50%);
     font-weight: 700;
-    padding-left: 2.8px;
+    font-size: 13,2px;
+    text-align: center;
+    padding-right: 96px;   
 }
 
 .clock-icon {
-    padding-left: 97px;
     padding-top: 2.5px;
 }
 
