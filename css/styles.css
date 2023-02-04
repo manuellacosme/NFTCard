@@ -87,7 +87,7 @@ h1:hover {
     font-weight: 700;
     font-size: 13,2px;
     text-align: center;
-    padding-right: 96px;   
+    padding-right: 101px;   
 }
 
 .clock-icon {
@@ -97,7 +97,6 @@ h1:hover {
 .clock-text {
     color: hsl(215, 51%, 70%);
     font-weight: 300;
-    padding-left: 5px;
     vertical-align: top;
 }
 
